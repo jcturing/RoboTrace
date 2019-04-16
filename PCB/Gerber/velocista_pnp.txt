@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=velocista
+*Date=22:08:35
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;40.6143;-50.1244;90;Bottom;J2
+2;;THT;22.8343;-6.94439;90;Bottom;J3
+3;;THT;3.78426;-38.6944;-90;Bottom;Boton 1
+4;;THT;5.05426;-24.7244;-180;Bottom;Encoder 1
+5;;5 mm [THT];17.7543;-60.8634;180;Bottom;LED 2
+6;;THT;85.0643;-47.5844;-90;Bottom;Boton 2
+7;;;83.7943;-55.2044;0;Bottom;Hole6
+8;;;11.4043;-47.5844;0;Bottom;Hole2
+9;;THT;20.2943;-50.1244;90;Bottom;J1
+10;;5 mm [THT];8.86426;-60.8634;180;Bottom;LED 1
+11;;;7.59426;-52.6644;0;Bottom;Hole7
+12;;THT;81.2543;-33.6144;0;Bottom;Encoder 2
+13;;;45.6983;-77.6824;-180;Bottom;TXT1
+14;220;THT;76.1743;-59.0144;0;Bottom;Res 2
+15;;;45.6943;-66.6344;90;Bottom;Multiplexor
+16;220;THT;3.78426;-51.3944;-90;Bottom;Res 1
+17;;;81.2543;-4.40439;0;Bottom;Hole5
+18;;;63.4743;-52.6644;0;Bottom;Hole1
+19;;;62.2043;-4.40439;0;Bottom;Hole4
+20;;THT;46.9643;-6.94439;90;Bottom;J4
+21;;;3.78426;-6.9444;0;Bottom;Buzzer
+22;;;11.4043;-19.6444;0;Bottom;Hole3

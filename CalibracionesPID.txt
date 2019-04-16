@@ -1,0 +1,14 @@
+INSTRUCCIONES:
+1. Poner las constantes Kp, Ki, y Kd a 0.
+2. Ir subiendo Kp hasta que veas que el robot empieza a oscilar sobre la linea a la salida de las curvas.
+3. Bajar un poco la Kp para que no oscile.
+4. Repetir los pasos 2 y 3 para Ki y Kd.
+
+CALIBRACION MAS SEGURA PERO MAS LENTA
+KP: 0.0325
+KD: 0.2
+
+
+CALIBRACION MENOS SEGURA PERO MAS RAPIDA
+KP: 0.075
+KD: 0.275
