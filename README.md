@@ -2,7 +2,7 @@
 <img src = "https://github.com/jcturing/RoboTrace/blob/master/Multimedia/WhatsApp%20Image%202019-04-16%20at%2021.04.07.jpeg" align = "right" width = "100"/>
 </p>
 
-# Micromouse
+# RoboTrace
 Everything about my RoboTrace Robot.
 
 ## Concept
